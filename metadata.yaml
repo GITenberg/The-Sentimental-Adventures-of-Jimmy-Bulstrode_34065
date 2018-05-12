@@ -1,0 +1,37 @@
+_repo: The-Sentimental-Adventures-of-Jimmy-Bulstrode_34065
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Kimball, Alonzo
+    birthdate: 1874
+    deathdate: 1923
+    gutenberg_agent_id: '8161'
+    url: http://www.gutenberg.org/2009/agents/8161
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Van Vorst, Marie
+    alias: Vorst, Marie van
+    birthdate: 1867
+    deathdate: 1936
+    gutenberg_agent_id: '5921'
+    url: http://www.gutenberg.org/2009/agents/5921
+description: ''
+gutenberg_issued: '2010-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34065'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Rich people -- Fiction'
+- !lcsh 'Bachelors -- Fiction'
+- !lcsh 'Married women -- Fiction'
+title: The Sentimental Adventures of Jimmy Bulstrode
+url: http://www.gutenberg.org/ebooks/34065
